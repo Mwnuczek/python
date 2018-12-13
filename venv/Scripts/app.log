@@ -1,0 +1,3 @@
+INFO:root:Started 2 + 3
+INFO:root:Equal : 5
+DEBUG:root:Ended properly
